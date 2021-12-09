@@ -1,10 +1,11 @@
 function myDictionary() {
     var Instrument = {
-        Name="Trumpet",
-        Family="Brass",
-        Key="B-flat",
-        Ran="G3-C5",
-        Famous="Louis Armstrong"
+        "Name": "Trumpet",
+        "Family": "Brass",
+        "Key": "B-flat",
+        "Ran": "G3",
+        "Famous": "Louis Armstrong"
     };
-    document.getElementById("Dictionary").innerHTML = Instrument.Family;
+    delete Instrument.Ran
+    document.getElementById("Dictionary").innerHTML = Instrument.Ran;
 }
