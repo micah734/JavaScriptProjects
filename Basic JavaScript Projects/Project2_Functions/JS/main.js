@@ -9,3 +9,14 @@ function myFunction2() {
     sentence += " a lot from this book!"; //This adds the following sentence with this sentence
     document.getElementById("Concatenate").innerHTML = sentence;
 }
+
+function myMultiplication(a, b) {
+    var x = a * b
+    document.getElementById("demo").innerHTML;
+    document.write("Answer=", x);
+}
+
+
+function changeText() {
+    document.getElementById("rewrite").innerHTML = "Hello, World"
+}
