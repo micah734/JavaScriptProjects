@@ -45,5 +45,4 @@ function value_string() {
     let text = "This is a sentence.";
     var result = text.valueOf();
     document.getElementById("value_of").innerHTML = result
-
 }
