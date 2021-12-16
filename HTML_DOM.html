@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML_DOM</title>
+</head>
+
+<body>
+    <h1> Window Document Object</h1>
+    <p id="DOM"></p>
+    <button onclick="myFunction()">Try It</button>
+    <script>
+        let url = window.document.URL;
+        document.getElementById("DOM").innerHTML = url;
+        function myFunction() {
+            var t = document.createTextNode("How are you doing?");
+            document.body.appendChild(t);
+        }
+    </script>
+</body>
+
+</html>
