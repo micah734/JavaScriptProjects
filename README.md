@@ -3,9 +3,9 @@
 <p> These are  some small projects I made  using JavaScript.
   
 <h3>Projects</h3>
-<ul> <a href="https://github.com/micah734/JavaScriptProjects/tree/main/Pizza_Project">Pizza Menu </a>
-<ul> <a href="https://github.com/micah734/JavaScriptProjects/tree/main/TicTacToe>Tic-Tac-Toe Game</a>
-  <ul> <a href="https://github.com/micah734/JavaScriptProjects/tree/main/Calculator">Calculator</a>
+<li> <a href="https://github.com/micah734/JavaScriptProjects/tree/main/Pizza_Project">Pizza Menu </a>
+<li> <a href="https://github.com/micah734/JavaScriptProjects/tree/main/TicTacToe>Tic-Tac-Toe Game</a>
+<li> <a href="https://github.com/micah734/JavaScriptProjects/tree/main/calculator">Calculator</a>
   
   
   <h3>Pizza Menu</h3>
