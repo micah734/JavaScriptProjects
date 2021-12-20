@@ -4,7 +4,7 @@
   
 <h3>Projects</h3>
 <li> <a href="https://github.com/micah734/JavaScriptProjects/tree/main/Pizza_Project">Pizza Menu </a>
-<li> <a href="https://github.com/micah734/JavaScriptProjects/tree/main/TicTacToe>Tic-Tac-Toe Game</a>
+<li> <a href="https://github.com/micah734/JavaScriptProjects/tree/main/TicTacToe">Tic-Tac-Toe Game</a>
 <li> <a href="https://github.com/micah734/JavaScriptProjects/tree/main/calculator">Calculator</a>
   
   
