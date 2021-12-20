@@ -14,5 +14,5 @@
   <h3>Tic-Tac-Toe Game</h3>
   <p>The classic game of tic-tac-toe. It randomly rolls dice to select which of the two players goes first and then users are off playing the classical game against the computer! Complete with music and animations!</p>
   
-  <h3>Calculator<h3>
+  <h3>Calculator</h3>
   <p>A basic 4 function calculator. Users can add, subtract, multiply and divide on a sleek web version of a calculator.</p>
