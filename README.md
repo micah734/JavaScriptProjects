@@ -1,6 +1,6 @@
 # JavaScriptProjects
 
-<p> These are  some small projects I made  using JavaScript.
+<p> These are projects I made using JavaScript.
   
 <h3>Projects</h3>
 <li> <a href="https://github.com/micah734/JavaScriptProjects/tree/main/Pizza_Project">Pizza Menu </a>
